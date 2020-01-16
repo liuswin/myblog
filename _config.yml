@@ -39,7 +39,8 @@ github_username:  jekyll
 # Build settings
 # theme: jekyll-theme-minimal
 # theme: minima
-theme: sleek
+# theme: sleek
+theme: jekyll-theme-clean-blog
 # theme: jekyll-theme-cayman
 # remote_theme: jekyll-sleek
 plugins:
