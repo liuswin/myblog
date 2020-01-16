@@ -29,16 +29,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+# hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-# THEME SETTINGS
-navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
+# # THEME SETTINGS
+# navigation: # Navigation links
+#   - {name: 'Home', link: '/'}
+#   - {name: 'About', link: '/about'}
 
 # Build settings
-# theme: minima
-theme: jekyll-sleek
+theme: minima
+# theme: jekyll-sleek
 plugins:
   - jekyll-feed
 
