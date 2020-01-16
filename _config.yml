@@ -37,7 +37,8 @@ github_username:  jekyll
 #   - {name: 'About', link: '/about'}
 
 # Build settings
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: minima
 # theme: jekyll-sleek
 plugins:
   - jekyll-feed
