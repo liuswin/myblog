@@ -40,7 +40,7 @@ github_username:  jekyll
 # theme: jekyll-theme-minimal
 # theme: minima
 # theme: jekyll-sleek
-theme: cayman
+theme: jekyll-theme-cayman
 # remote_theme: jekyll-sleek
 plugins:
   - jekyll-feed
